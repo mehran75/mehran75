@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Farmoi app, a community-driven farmer's market<br>🌱 I’m currently learning React Native, Fast API, n8n, and a ton of other stuff that I need for my project<br>
+🌱 I’m currently busy learning tons of new stuff on running a startup in Finland. Find more about it on [farmoi.com](https://farmoi.com)
 
 
 ## 🌐 Socials:
